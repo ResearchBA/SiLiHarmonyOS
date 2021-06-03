@@ -48,4 +48,4 @@ export default {
 
 ### Support or Contact
 
-Having trouble with Applications and Development on HarmonyOS? Check out our [technology website](https://www.catslinc.com/) or [business applications](https://www.theforage.cn) and we’ll help you sort it out.
+Having trouble with Applications and Development on HarmonyOS? Check out our [technical website](https://theforage.herokuapp.com/) or [business applications](https://www.theforage.cn) and we’ll help you sort it out.
