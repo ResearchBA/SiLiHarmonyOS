@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Welcome to SiLiHarmonyOS
 
-You can use the [editor on GitHub](https://github.com/SiLiHarmonyOS/SiLiHarmonyOS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/SiLiHarmonyOS/SiLiHarmonyOS/edit/gh-pages/index.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SiLiHarmonyOS is the study platform of HarmonyOS of Huawei.
 
-### Markdown
+### DevEco Studio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DevEco Studio is the IDE of HarmonyOS Applications. You can download [here](https://developer.harmonyos.com/en/develop/deveco-studio)
+
+### My First Try 
+
+![DevEco Studio](https://gitee.com/theforage/catslinc/raw/master/picbed/DevEcoStudio.png)
 
 ```markdown
-Syntax highlighted code block
+MainAbility.java
 
-# Header 1
-## Header 2
-### Header 3
+package com.catslinc.siliharmonyos;
 
-- Bulleted
-- List
+import ohos.ace.ability.AceAbility;
+import ohos.aafwk.content.Intent;
 
-1. Numbered
-2. List
+public class MainAbility extends AceAbility {
+    @Override
+    public void onStart(Intent intent) {
+        super.onStart(intent);
+    }
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+    @Override
+    public void onStop() {
+        super.onStop();
+    }
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```markdown
+app.js
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SiLiHarmonyOS/SiLiHarmonyOS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+export default {
+    onCreate() {
+        console.info('AceApplication onCreate');
+    },
+    onDestroy() {
+        console.info('AceApplication onDestroy');
+    }
+};
+```
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Applications and Development on HarmonyOS? Check out our [technology website](https://www.catslinc.com/) or [business applications](https://www.theforage.cn) and we’ll help you sort it out.
