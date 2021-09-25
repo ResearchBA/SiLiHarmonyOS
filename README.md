@@ -2,4 +2,4 @@ www.catslinc.com
 
 ## License
 
-Copyright © 2017-2018 **[webstack.cc](https://webstack.cc)** Released under the **MIT License**.
+Copyright © 2021 **[SiLi Business Talents.cc](https://SiLi Business Talents.cc)** Released under the **MIT License**.
