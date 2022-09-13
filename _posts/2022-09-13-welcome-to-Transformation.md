@@ -5,8 +5,8 @@ subtitle: An awesome brand new "Infrastructure Your Own" generator.
 author: Loi Ng
 categories: Transformation
 banner:
-  video: 
-  loop: true
+  video: "/assets/videos/oceans.mp4"
+  loop: false
   volume: 0.8
   start_at: 8.5
   image: "/assets/images/banners/dolphin.jpeg"
@@ -35,6 +35,8 @@ A full understanding of digitization and intelligence is a milestone on your tra
 ## Infrastructure your own
 
 Your infrastructure should include: product, technology, business and strategy. This column will lead you on the right path and help you build your own infrastructure.
+
+## Transformation Kit
 
 Check out the [PMerBot][PMerBot-site] for more info on how to get the most out of Transformation Kit.
 
