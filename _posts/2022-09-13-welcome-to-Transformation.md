@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Transformation!
-subtitle: A awesome brand new "Infrastructure Your Own" generator.
+subtitle: An awesome brand new "Infrastructure Your Own" generator.
 author: Loi Ng
 categories: Transformation
 banner:
